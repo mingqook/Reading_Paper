@@ -1,9 +1,9 @@
 ---
 name: Paper_list_template
 about: 논문(Paper) List와 간단한 정보를 관리합니다.
-title: '논문(Paper)의 제목을 그대로 사용합니다.'
-labels: '논문(Paper)'
-assignees: ''
+title: 논문(Paper)의 제목을 그대로 사용합니다.
+labels: ''
+assignees: mingqook
 
 ---
 
@@ -17,4 +17,4 @@ assignees: ''
 * 논문을 정리한 Velog 글 링크 첨부
 
 ## 논문(Paper) 원본
-* 논문 링크 
+* 논문 링크
